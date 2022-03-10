@@ -1,0 +1,51 @@
+[
+  {
+    "judul buku": "perahu kertas",
+    "penulis": "maudy",
+    "penerbit": "gramedia",
+    "kode buku": "K43R",
+    "tebal": 765
+  },
+  {
+    "judul buku": "Paearahu jertas",
+    "penulis": "Maudy",
+    "penerbit": "Gramedia",
+    "kode buku": "762",
+    "tebal": 800
+  },
+  {
+    "judul buku": "Tentang kamu",
+    "penulis": "Tere Liye",
+    "penerbit": "Replubika",
+    "kode buku": "A2a1",
+    "tebal": 679
+  },
+  {
+    "judul buku": "Jilbab",
+    "penulis": "Dr. Amaani",
+    "penerbit": "Pustaka",
+    "kode buku": "C3b2",
+    "tebal": 321
+  },
+  {
+    "judul buku": "#Berhentitidur",
+    "penulis": "dr. Gia Pratama",
+    "penerbit": "Gramedia",
+    "kode buku": "D3b1",
+    "tebal": 599
+  },
+  {
+    "judul buku": "harry potter",
+    "penulis": "jk rowling",
+    "penerbit": "gramedia",
+    "kode buku": "K43R",
+    "tebal": 789
+  },
+  {
+    "judul buku": "harry potter",
+    "penulis": "jk rowling",
+    "penerbit": "gramedia",
+    "kode buku": "K43W",
+    "tebal": 897
+  }
+]

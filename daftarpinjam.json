@@ -1,0 +1,26 @@
+[
+  {
+    "nama peminjam": "Ghozi",
+    "tanggal": "2021-01-08",
+    "judul buku": "Jilbab",
+    "penulis": "Dr. Amaani",
+    "penerbit": "Pustaka",
+    "kode buku": "C3b2"
+  },
+  {
+    "nama peminjam": "Ghozi",
+    "tanggal": "2021-01-08",
+    "judul buku": "Tentang kamu",
+    "penulis": "Tere Liye",
+    "penerbit": "Replubika",
+    "kode buku": "A2a1"
+  },
+  {
+    "nama peminjam": "rafael",
+    "tanggal": "2021-01-09",
+    "judul buku": "haryy potter",
+    "penulis": "jk rowling",
+    "penerbit": "gramedia",
+    "kode buku": "K43W"
+  }
+]
